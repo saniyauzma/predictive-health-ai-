@@ -44,7 +44,7 @@ Explainable AI tools (LIME, SHAP) ensure transparency, aiding clinical adoption.
 ## 🔖 Citation
 
 @misc{uzma2025predictive,
-author = {Saniya Uzma and Harshitha P},
+author = {Saniya Uzma},
 title = {AI-driven Predictive Health and Disease Risk Modeling},
 year = {2025},
 note = {Mini Project Report, Global Academy of Technology, Bangalore}
